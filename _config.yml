@@ -22,3 +22,5 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/kodero/kodero.github.io
+
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
