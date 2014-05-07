@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Managging single dependency file for a multipage angular application 
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+[AngularJs](https://angularjs.org/) is a wonderfull framework for building web applications. However, had been mentioned before, managing dependencies has been done in an ad-hoc manner. In Enterprice development however, its important that dependencies be managed in a central manner. I am going to illustrate one of the ways that can be done here
 
-### Built on Poole
+### app-dependencies.js
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+This file maintains a list of the 
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Mobile friendly design and development
